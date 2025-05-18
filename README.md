@@ -25,12 +25,13 @@ Abdal JS2PDF Injector is a powerful tool designed for penetration testing and cy
 3. Upload your JavaScript file
 4. The application will display file information
 5. Proceed with the injection process
+6. The injected PDF will be created next to the original file with the suffix "_injected" (e.g., document.pdf → document - injected.pdf)
 
 ## ⚠️ Disclaimer
 This tool is designed for penetration testing and cybersecurity research purposes only. Users are responsible for ensuring they have proper authorization before using this tool on any system or network.
 
 ## 🔗 Related
-- [Persian Documentation](README.fa.md)
+- [Persian Documentation](README_FA.md)
 
 ## ❤️ Donation
 If you find this project helpful and would like to support further development, please consider making a donation:
