@@ -5,7 +5,9 @@
 </div>
 
 
-[English](README.md) | [فارسی](README_FA.md)
+## 🔗 Related
+- [Persian Documentation](README_FA.md)
+
 
 ## 📝 Description
 Abdal JS2PDF Injector is a powerful tool designed for penetration testing and cybersecurity assessments. It allows users to inject JavaScript code into PDF files, making it an essential utility for security researchers and penetration testers.
@@ -30,8 +32,7 @@ Abdal JS2PDF Injector is a powerful tool designed for penetration testing and cy
 ## ⚠️ Disclaimer
 This tool is designed for penetration testing and cybersecurity research purposes only. Users are responsible for ensuring they have proper authorization before using this tool on any system or network.
 
-## 🔗 Related
-- [Persian Documentation](README_FA.md)
+
 
 ## ❤️ Donation
 If you find this project helpful and would like to support further development, please consider making a donation:
